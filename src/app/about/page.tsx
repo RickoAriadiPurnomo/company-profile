@@ -64,7 +64,7 @@ const About = () => {
                     height={200}
                   />
                   <p className="text-center text-white font-bold text-xl lg:text-2xl">
-                    +1200
+                    +20
                   </p>
                 </div>
               </figure>
@@ -79,7 +79,7 @@ const About = () => {
       <div className="container lg:px-10 mx-auto md:max-lg:max-w-full flex flex-col xl:flex-row gap-6 items-center">
         <div className="container px-5 lg:px-10 mx-auto mt-10">
           <h2 className="text-2xl font-semibold text-[#7d5d3f] mb-4">
-            Sejarah Perusahaan
+            Sejarah Kami
           </h2>
           <p className="text-[#515e70]">
             Dream House didirikan pada tahun 2000 dengan visi untuk menyediakan
@@ -128,7 +128,7 @@ const About = () => {
       <div className="container lg:px-10 mx-auto md:max-lg:max-w-full flex flex-col xl:flex-row gap-6 items-center">
         <div className="container px-5 lg:px-10 mx-auto mt-10 mb-10">
           <h2 className="text-2xl font-semibold text-[#7d5d3f] mb-4">
-            Budaya Perusahaan
+            Budaya Kami
           </h2>
           <p className="text-[#515e70]">
             Budaya di Dream House didasarkan pada nilai-nilai inti kami yaitu
